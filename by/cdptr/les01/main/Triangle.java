@@ -7,7 +7,7 @@ public class Triangle {
 		b = 20;
 		c = Math.sqrt(a * a + b * b);
 		s = 0.5 * a * b;
-		System.out.println ("hypotenuse =" + c + "\r\n" + "square =" + s);
+		System.out.println ("hypotenuse =" + c + "\n" + "square =" + s);
 	}
 
 }

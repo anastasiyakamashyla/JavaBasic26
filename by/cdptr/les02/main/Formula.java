@@ -1,4 +1,4 @@
-package by.cdptr.les02.main;
+ package by.cdptr.les02.main;
 
 import java.util.Scanner;
 public class Formula {
