@@ -29,6 +29,14 @@ public class Task2 {
 				result+=el;
 			}
 		}
+		
+		/*for(int i=0; i< mas.length; i++) {
+			int el = mas[i];
+			el..el.
+		}
+		for(int el : mas) {
+			el..el.
+		}*/
 		return result;
 	}
 	

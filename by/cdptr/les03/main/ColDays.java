@@ -17,7 +17,7 @@ public class ColDays {
 		System.out.print(printLine);
 		while (!sc.hasNextInt()) {
 			sc.next();
-			System.out.print("Ошибка формата) - " + printLine);
+			System.out.print("Ошибка формата -" + printLine);
 		}
 		number = sc.nextInt();
 		return number;
